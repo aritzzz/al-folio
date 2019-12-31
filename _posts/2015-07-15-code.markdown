@@ -1,35 +1,16 @@
 ---
 layout: post
-title: a post with code
-date: 2015-07-15 15:09:00
-description: an example of a blog post with some code
+title: Proses
+date:
+description: Proses I am proud of
 ---
-This theme implements a built-in Jekyll feature, the use of Pygments, for sytanx highlighting. It supports more than 100 languages. This example is in C++. All you have to do is wrap your code in a liquid tag:
 
-{% raw  %}
-{% highlight c++ %}  <br/> code code code <br/> {% endhighlight %}
-{% endraw %}
+_Memories go very far even when people are near. In other room. Yet the distance mind travels to smile with them transcends the incredulous dimension of time. Past is solicitous. It embraces you. It makes the present tender so that when transcend time in future you feel, All is - was not lost. I have lived a sanguine life. Even when the one holding you by the shoulders can’t trace you - You are loved. Time heals all - an illusion. The sun will rise to another fatuous morning and we will feel its warmth and light some other night in future - maybe day, in the darkness of the present. Time heals all._
 
-Produces something like this:
+_Life comes in a flicker, wobbly brightness on the dark canvas — the cascades of embers seething above the spire of fire to save themselves from turning into nothingness, ashes.  And the irony, these embers are all the light we can see and yet do not see. What are we running from?_
 
-{% highlight c++ %}
+_The only thing which saves me every time from drowning is rekindling.  It happens in retreating of the waves, taking with it the crumbled notes of petitions, promises, and plans. The pages I threw in the water and turned my back to them. It happens then—rekindling. A tide pulls me, and I dive; throw myself to the waves and drown in the receding myself—paeans, portraits, and poems._
 
-int main(int argc, char const \*argv[])
-{
-    string myString;
+_Yet we somehow remain stick to the mess, tangled to the spikes meaning as our callings. Frayed, as it might be, some...thing is holding us - That's conciliatory. We do so. We do so with eyes glared on the horizon; only if we are brave enough to pull hard, to strip off the ragged garb. We would really be free._
 
-    cout << "input a string: ";
-    getline(cin, myString);
-    int length = myString.length();
 
-    char charArray = new char * [length];
-
-    charArray = myString;
-    for(int i = 0; i < length; ++i){
-        cout << charArray[i] << " ";
-    }
-
-    return 0;
-}
-
-{% endhighlight %}
