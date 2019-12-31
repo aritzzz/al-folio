@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Proses
-date: 2019-09-12
+date:
 description: Proses I am proud of
 ---
 
