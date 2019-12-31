@@ -1,8 +1,55 @@
 ---
 layout: post
-title: a post with comments
-date: 2015-10-20 11:59:00-0400
-description: an example of a blog post with comments
-comments: true
+title: Poetries
+date:
+description: Poems I am proud of
 ---
-This post shows how to add DISQUS comments.
+
+##### Here's the Light <br>
+Here's the light <br>
+Warring, it has come forth <br>
+rusty armour shines <br>
+ascends the fallen blade <br>
+The ragged cape is in rage <br>
+Cut to the chase, is this a dream? <br>
+No, this is the dream <br>
+The coup of the light <br>
+Light, I was waiting for <br>
+
+
+
+##### Vigil <br>
+Deathly silence<br>
+but the Angels never listen<br>
+I keep the vigil<br>
+Candles only are those who weep<br>
+The leaves think it is divine<br>
+Stars, moon, and the still sky<br>
+They will now rejoice the apocalyptic fire<br>
+Burning in this heavenly pyre are<br>
+Poems—if they can read<br>
+Oh the Zephyr<br>
+Oh the Zephyr, make me the ember<br>
+Maybe, this is how<br>
+Words, Poems, and I will spring<br>
+Rotating in this celestial orb<br>
+I will spring<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
