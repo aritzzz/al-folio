@@ -89,7 +89,7 @@ scholar:
 
   last_name: Einstein
 
-  style: apa
+  style: IEEE
   locale: en
 
   sort_by: year
