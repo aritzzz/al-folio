@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
+title: <strong>Rajeev</strong> Verma
 description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
@@ -16,8 +16,9 @@ news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Rajeev Verma, an aspiring researcher at the core of Theoretical Machine Learning and Deep Learning. Currently, I am playing with pixels as a Software Design Engineer at Tektronix India Video Team. I graduated from Indian Institute of Technology Patna (IIT Patna) in Aug 2019 with a major in Electrical Engineering. At IIT Patna, I was advised by [Dr. Asif Ekbal](https://www.iitp.ac.in/~asif/), [Dr. Sriparna Saha](https://www.iitp.ac.in/~sriparna/) and [Dr. Preetam Kumar](https://www.iitp.ac.in/index.php?option=com_content&view=article&id=254:dr-preetam-kumar&catid=25:the-project&Itemid=226). I also spent the summer of 2018 at NTU Singapore with Professor [Erik Cambria](https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=CAMBRIA). I love the mathematics of machine learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Whenever I am not scratching my head to make sense of the mathematical equations, I read and, sometimes, write as well. I also maintain an Instagram Page, [Glazed Leaves](https://www.instagram.com/glazed_leaves/) of short writings. You can find the writings I am most proud of here. In my free time, I stare into empty space and imagine myself in all sorts of situations⁠—published a bestseller, shouting at the top of Cape of Good Hope, giving a spotlight talk at NeurIPS, visiting Lagos and Oceania, you name it.
+
+
