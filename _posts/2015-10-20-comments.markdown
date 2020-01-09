@@ -6,7 +6,7 @@ description: Poems I am proud of
 ---
 
 <p align="center">
-	<b> Here's the Light </b> <br>
+	**Here's the Light** <br>
 	Here's the light <br>
 	Warring, it has come forth <br>
 	rusty armour shines <br>
