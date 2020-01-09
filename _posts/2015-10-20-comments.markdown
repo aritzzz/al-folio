@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Poetries
-date:2015-03-15 17:40:16
+date: 2015-03-15 17:40:16
 description: Poems I am proud of
 ---
 

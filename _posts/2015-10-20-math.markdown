@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Proses
-date:2015-03-15 17:40:45
+date: 2015-03-15 17:40:45
 description: Proses I am proud of
 ---
 
