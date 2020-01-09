@@ -1,20 +1,21 @@
 ---
 layout: post
 title: Poetries
-date: 2015-03-15 17:40:16
+date: 2019-12-15
 description: Poems I am proud of
 ---
 
-##### Here's the Light <br>
-Here's the light <br>
-Warring, it has come forth <br>
-rusty armour shines <br>
-ascends the fallen blade <br>
-The ragged cape is in rage <br>
-Cut to the chase, is this a dream? <br>
-No, this is the dream <br>
-The coup of the light <br>
-Light, I was waiting for <br>
+<p align="center">#### Here's the Light <br>
+	Here's the light <br>
+	Warring, it has come forth <br>
+	rusty armour shines <br>
+	ascends the fallen blade <br>
+	The ragged cape is in rage <br>
+	Cut to the chase, is this a dream? <br>
+	No, this is the dream <br>
+	The coup of the light <br>
+	Light, I was waiting for <br>
+</p>
 
 
 
