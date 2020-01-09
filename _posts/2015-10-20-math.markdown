@@ -5,7 +5,9 @@ date: 2019-12-15
 description: Proses I am proud of
 comments: true
 ---
-
+<div class="img_row">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/IMG_0237.JPG">
+</div>
 _Memories go very far even when people are near. In other room. Yet the distance mind travels to smile with them transcends the incredulous dimension of time. Past is solicitous. It embraces you. It makes the present tender so that when transcend time in future you feel, All is - was not lost. I have lived a sanguine life. Even when the one holding you by the shoulders can’t trace you - You are loved. Time heals all - an illusion. The sun will rise to another fatuous morning and we will feel its warmth and light some other night in future - maybe day, in the darkness of the present. Time heals all._
 
 _Life comes in a flicker, wobbly brightness on the dark canvas — the cascades of embers seething above the spire of fire to save themselves from turning into nothingness, ashes.  And the irony, these embers are all the light we can see and yet do not see. What are we running from?_
